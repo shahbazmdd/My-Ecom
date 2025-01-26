@@ -330,10 +330,10 @@ header {
 }
 .gridcard:nth-child(4){
     grid-row: 3/4;
-    background-image: url("cartierwatch.jpg");
+    background-image: url("cartier watch(1).jpg");
 }
 .gridcard:nth-child(2){
-    background-image: url("genevewatch.jpg");
+    background-image: url("geneve watch.jpg");
 }
 .gridcard:nth-child(5){
 background-image: url("omegawatch.jpg");
