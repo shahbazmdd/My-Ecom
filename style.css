@@ -256,7 +256,7 @@ header {
 }
 
 .section-four-contain {
-    background-image: url("watch.jpg");
+    background-image: url("img/watch.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -322,24 +322,24 @@ header {
 }
 .gridcard:nth-child(1){
     grid-row: 1/4;
-    background-image: url("radowatch.jpg");
+    background-image: url("img/radowatch.jpg");
 }
 .gridcard:nth-child(3){
     grid-row: 1/3;
-    background-image: url("tissotwatch.jpg");
+    background-image: url("img/tissotwatch.jpg");
 }
 .gridcard:nth-child(4){
     grid-row: 3/4;
-    background-image: url("cartier watch (1).jpg");
+    background-image: url("img/cartier watch (1).jpg");
 }
 .gridcard:nth-child(2){
-    background-image: url("geneve watch.jpg");
+    background-image: url("img/geneve watch.jpg");
 }
 .gridcard:nth-child(5){
-background-image: url("omegawatch.jpg");
+background-image: url("img/omegawatch.jpg");
 }
 .gridcard:nth-child(6){
-    background-image: url("fitronwatch.jpg");
+    background-image: url("img/fitronwatch.jpg");
 }
 .gridcard::before{
     content: "";
