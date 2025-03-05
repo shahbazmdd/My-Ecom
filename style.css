@@ -431,6 +431,10 @@ footer{
     .section .logo {
         z-index: 5;
     }
+    .logo{
+        margin-bottom:40px;
+        margin-left:90px;
+    }
 
     .head-pricing {
         font-size: 4rem;
