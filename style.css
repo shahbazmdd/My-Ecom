@@ -8,7 +8,9 @@
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
 }
-
+::-webkit-scrollbar {
+    display: none;
+  }
 :root {
     --dark-blue: #0A1d3C;
     --light-gray: #e5e5e5;
